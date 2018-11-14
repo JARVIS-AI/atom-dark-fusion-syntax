@@ -75,6 +75,10 @@ Good Luck
 
 
 >  **Atom Dark Fusion + Private UI Theme (Maybe I share it in future but You can try Nucleus Dark UI)**
+>
+>  Font used : Operator Mono Set
+>
+>  HTML and JS Pane Side View
 
 ![IMG](screenshots/IMG.png)
 
